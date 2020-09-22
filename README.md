@@ -8,4 +8,4 @@ A console chess game programmed in C. Play as the white chessBoard pieces agains
  
  ![chess board beginning](https://github.com/habbybolan/ChessGame/blob/master/beginning_board.PNG)
   
- ![chess board in progress](https://github.com/habbybolan/ChessGame/blob/master/game_in_progress_board.PNG)
+ ![chess board in progress](https://github.com/habbybolan/ChessGame/blob/master/game_in_progress.PNG)
